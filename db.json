@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Avinash",
+      "lastName": "Konduri",
+      "email": "avinashk@logicmatter.com",
+      "gender": "Male",
+      "age": "30",
+      "dob": "15/10/1988",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Pradeep",
+      "lastName": "Musunuru",
+      "email": "pradeepm@logicmatter.com",
+      "gender": "Male",
+      "age": "30",
+      "dob": "10/03/1988",
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Rajesh",
+      "lastName": "Suramalla",
+      "email": "rajeshm@logicmatter.com",
+      "gender": "Male",
+      "age": "29",
+      "dob": "20/07/1988",
+      "companyId": "4"
+    },
+    {
+      "id": "4",
+      "firstName": "Latha",
+      "lastName": "Nagandla",
+      "email": "lathan@logicmatter.com",
+      "gender": "Female",
+      "age": "24",
+      "dob": "1/8/1993",
+      "companyId": "3"
+    },
+    {
+      "firstName": "Santhosh",
+      "lastName": "B",
+      "email": "santhoshb@logicmatter.com",
+      "gender": "Male",
+      "age": "29",
+      "dob": "1/9/1990",
+      "companyId": "2",
+      "id": "0Rcy15T"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics"
+    },
+    {
+      "id": "2",
+      "name": "Mircosoft",
+      "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses"
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising"
+    }
+  ]
+}
